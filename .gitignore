@@ -7,4 +7,5 @@
 *.gz
 *.toc
 *.swp
+*.pdf
 .DS_Store
